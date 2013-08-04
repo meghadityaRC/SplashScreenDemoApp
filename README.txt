@@ -1,0 +1,1 @@
+This is a sample splash screen demo project.
